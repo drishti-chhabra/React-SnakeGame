@@ -1,0 +1,20 @@
+.Gridcol{
+  height:35px ;
+ 
+  border-style: solid;
+  border-color:mediumaquamarine;
+}
+.Gridrow{
+	padding: 0rem !important;
+}
+.StartButton{
+	margin: 20px !important;
+}
+.snakeClass{
+	height: 35px;
+	background-color: navy;
+}
+.targetClass{
+	height: 35px;
+	background-color:yellow;
+}
